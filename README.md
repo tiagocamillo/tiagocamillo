@@ -1,9 +1,9 @@
 ### Olá! 🖐️
 
 
-- 💻 **Estagiário/Trainee** - Self Intelligence for Life 
-- 💾 **Tecnólogo em Banco de Dados** - Fatec SJC - Prof. Jessen Vidal Semestre°(3/6)
-- 💬 **Likedin:** https://www.linkedin.com/in/tiago-camillo-277257192/
+- 💻 **Business Analyst JR** - Algar Tech 
+- 💾 **Tecnólogo em Banco de Dados** - Fatec SJC - Prof. Jessen Vidal Semestre°(4/6)
+- 💬 **Likedin:** https://www.linkedin.com/in/tiagocamillo/
 - 📫 **Email:** tiago.camillo@hotmail.com
 
 <br>
