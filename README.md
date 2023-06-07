@@ -7,7 +7,23 @@
 
 - 💻 **Business Analyst JR** - Algar Tech 
 - 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 4/6 Semester 
-<br>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+  </ul>
+</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/tiagocamillo/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>   
+<a href="mailto:tiago.camillo@hotmail.com" target="blank"><img align="center"
+    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    alt="azzar" height="30"/></a>
+</p>
+
 
 <!--- snake -->
 <div align="center">
@@ -58,22 +74,5 @@
 </p>        
 <!--- stats (end) -->
   
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-  </ul>
-</div>
-<p align="center">
-<a href="https://www.linkedin.com/in/tiagocamillo/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>   
-<a href="mailto:tiago.camillo@hotmail.com" target="blank"><img align="center"
-    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    alt="azzar" height="30"/></a>
-</p>
-
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
