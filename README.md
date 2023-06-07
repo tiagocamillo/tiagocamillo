@@ -1,32 +1,78 @@
-### Olá! 🖐️
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Hey 👋, I'm Tiago Camillo
 
 
 - 💻 **Business Analyst JR** - Algar Tech 
-- 💾 **Tecnólogo em Banco de Dados** - Fatec SJC - Prof. Jessen Vidal Semestre°(4/6)
-- 💬 **Likedin:** https://www.linkedin.com/in/tiagocamillo/
-- 📫 **Email:** tiago.camillo@hotmail.com
+- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - Semester (4/6)
 
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+  <td width="50%" align="center"> 
+    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tcamillo4-ctrlz&theme=dark&show_icons=true&count_private=true" />
+    <br></br>
+    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tcamillo4-ctrlz&theme=dark&hide_border=false" /> 
+  </td>
+
+  <td width="50%" align="center">
+    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tcamillo4-ctrlz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,java,python,js,html,css,postgres,mysql,linux&perline=" />
+  </a>
+</p>
 <br>
-<div align = "center">
-  <a href="https://github.com/tcamillo4-ctrlz">
-   <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=tcamillo4-ctrlz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
-  </br></br>
-  <a href="https://github.com/tcamillo4-ctrlz">
-   <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=tcamillo4-ctrlz&layout=compact&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a></br>
-  
-  </br></br></br>
-  <h2 >Linguagens</h2>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=tcamillo4-ctrlz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </div>
+<!--- trophy (start) -->
 
-<div align = "center">
-   <!--- JAVA ---><img align = "center" alt = "" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <!--- PYTHON ---><img align = "center" alt = "" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-   <!--- JS ---><img align = "center" alt = "" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-   <!--- HTML5 ---><img align = "center" alt = "" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-   <!--- CSS3 ---><img align = "center" alt = "" height = "60" width = "70" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> 
+</p>        
+<!--- stats (end) -->
   
-  </a>
-  </br>
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contact Me🤝</h2></summary>
+  </ul>
 </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/tiagocamillo/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>   
+<a href="mailto:tiago.camillo@hotmail.com" target="blank"><img align="center"
+    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    alt="azzar" height="30"/></a>
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
