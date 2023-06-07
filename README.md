@@ -3,37 +3,20 @@
 
 <H1> Hey, I'm Tiago Camillo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </H1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 - 💻 **Business Analyst JR** - Algar Tech 
 - 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 4/6 Semester 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-  </ul>
-</div>
-<p align="center">
-<a href="https://www.linkedin.com/in/tiagocamillo/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>   
-<a href="mailto:tiago.camillo@hotmail.com" target="blank"><img align="center"
-    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    alt="azzar" height="30"/></a>
-</p>
-
+<br>
 
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<!--- snake -->
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
+<!--- stats (start) -->
 <table align="center">
 <tr border="none">
   <td width="50%" align="center"> 
@@ -57,7 +40,7 @@
 </div>
 <!--- trophy (start) -->
 
-<!--h1 without bottom border-->
+<!-- Technologies -->
 <div id="user-content-toc">
   <ul align="center">
     <h2 style="display: inline-block">Technologies That I Know  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
@@ -69,10 +52,23 @@
     <img src="https://skillicons.dev/icons?i=github,java,python,js,html,css,postgres,mysql,linux&perline=" />
   </a>
 </p>
-
-
-</p>        
-<!--- stats (end) -->
+<!-- Technologies -->
   
+<!-- Contact me -->
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
+  </ul>
+</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/tiagocamillo/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>   
+<a href="mailto:tiago.camillo@hotmail.com" target="blank"><img align="center"
+    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+    alt="azzar" height="30"/></a>
+</p>
+<!-- Contact me -->
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
