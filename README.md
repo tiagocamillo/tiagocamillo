@@ -5,7 +5,6 @@
 
 - 💻 **Business Analyst JR** - Algar Tech 
 - 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 4/6 Semester 
-<br>
 
 <!--- snake -->
 <div align="center">
