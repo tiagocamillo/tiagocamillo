@@ -4,7 +4,7 @@
 <H1> Hey, I'm Tiago Camillo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </H1>
 
 - 💻 **Business Analyst JR** - Algar Tech 
-- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 5/6 Semester 
+- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 6/6 Semester 
 
 <!--- snake -->
 <div align="center">
