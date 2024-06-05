@@ -8,8 +8,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://github.com/tiagocamillo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagocamillo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocamillo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <!--- snake -->
 
