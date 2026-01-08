@@ -1,74 +1,58 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="left">Hey, I'm Tiago Camillo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
-<H1> Hey, I'm Tiago Camillo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </H1>
+- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal
 
-- 💻 **Business Analyst JR** - Algar Tech 
-- 💾 **Database Technologist** - Fatec SJC - Prof. Jessen Vidal - 6/6 Semester 
+###
 
-<!--- snake -->
+<h2 align="center">Contact Me</h2>
+
+###
+
 <div align="center">
-  <a href="https://github.com/tiagocamillo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiagocamillo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagocamillo&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<!--- snake -->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center"> 
-    <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tiagocamillo&theme=dark&show_icons=true&count_private=true" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagocamillo&theme=dark&hide_border=false" /> 
-  </td>
-
-  <td width="50%" align="center">
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tiagocamillo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=tiagocamillo&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-<!-- Technologies -->
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Technologies That I Know  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,java,python,js,html,css,postgres,mysql,linux&perline=" />
+  <a href="https://www.linkedin.com/in/tiagocamillo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</p>
-<!-- Technologies -->
-  
-<!-- Contact me -->
-<div id="user-content-toc">
-  <ul align="center">
-    <h2 style="display: inline-block">Contact Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
-  </ul>
+  <a href="mailto:tiago.camillo@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/tiagocamillo/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>   
-<a href="mailto:tiago.camillo@hotmail.com" target="blank"><img align="center"
-    src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
-    alt="azzar" height="30"/></a>
-</p>
-<!-- Contact me -->
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+###
+
+<h2 align="center">Technologies That I Know</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+</div>
+
+###
+
+<h2 align="center">Activities</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiagocamillo/tiagocamillo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiagocamillo/tiagocamillo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tiagocamillo/tiagocamillo/output/pacman-contribution-graph.svg">
+</picture>
+
+###
